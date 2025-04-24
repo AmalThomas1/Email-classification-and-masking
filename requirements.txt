@@ -1,0 +1,9 @@
+gradio
+scikit-learn
+pandas
+numpy
+seaborn
+transformers
+torch
+pypi-json
+jsons
